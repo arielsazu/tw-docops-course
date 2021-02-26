@@ -45,4 +45,4 @@ The following table describes Ariel's favorite ingredient in a hamburger, as wel
 
 |Ingredient|Reason|
 |---|---|
-|Bread|'Cause it's awesome|
+|Bread|'Cause it's awesome.|
